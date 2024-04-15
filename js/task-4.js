@@ -1,4 +1,4 @@
-function getShippingCost(country, price) {
+function getShippingCost(country) {
     switch (country) {
         case "China":
             price = 100;
